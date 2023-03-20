@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 My Portfolio [https://SaurabhBH123.github.io/](https://SaurabhBH123.github.io/)
+- 👨‍💻 My Portfolio [https://SaurabhBH123.github.io](https://SaurabhBH123.github.io)
 
 - 💬 Ask me about **HTML,CSS,Javascript,ReactJs**
 
