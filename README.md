@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 My Portfolio [https://SaurabhBH123.github.io/](https://SaurabhBH123.github.io/)
 
-- 💬 Ask me about **HTML,CSS,Javascript,ReactJs**
+- 💬 Ask me about **HTML,CSS,Javascript,ReactJs,NodeJs,MongoDB**
 
 - 📫 How to reach me **bhandarisaurabh143@gmail.com**
 
